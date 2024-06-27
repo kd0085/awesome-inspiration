@@ -169,6 +169,8 @@
   - If you're afraid to fail, then you're probably going to fail. <br> ![](https://addicted2success.com/wp-content/uploads/2016/01/Kobe-Bryant-2.jpg)
 - Alan Watts
   - Waking up to who you are requires letting go of who you imagine yourself to be. <br> ![](https://www.azquotes.com/picture-quotes/quote-waking-up-to-who-you-are-requires-letting-go-of-who-you-imagine-yourself-to-be-alan-watts-59-21-09.jpg)
+  - Alan Glasow
+  - A good leader takes a little more than his share of the blame, a little less than his share of the credit. <br> ![](https://www.picturequotes.com/a-good-leader-takes-a-little-more-than-his-share-of-the-blame-a-little-less-than-his-share-of-the-quote-636749)
 
 ## Songs
 
@@ -278,6 +280,8 @@
 - [As A Man Thinketh, by James Allen](https://archive.org/details/asmanthinketh00alle) - ([Wikipedia article](https://en.wikipedia.org/wiki/As_a_Man_Thinketh))
 - [Man's Search for Meaning](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning) - ([Wikipedia article](https://en.wikipedia.org/wiki/Man%27s_Search_for_Meaning))
 - [12 Rules for Life: An Antidote to Chaos, by Jordan B. Peterson](https://www.goodreads.com/book/show/30257963-12-rules-for-life) - ([Wikipedia article](https://en.wikipedia.org/wiki/12_Rules_for_Life))
+- [The Power of Servant-Leadership, by Robert K. Greenleaf](https://www.amazon.com/Power-Servant-Leadership-Robert-K-Greenleaf/dp/1576750353)
+- [Men, Women, and Worthiness: The Experience of Shame and the Power of Being Enough, by Brené Brown](https://www.goodreads.com/book/show/15894631)
 
 ## Contributing
 
